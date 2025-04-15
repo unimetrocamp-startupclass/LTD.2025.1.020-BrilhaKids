@@ -111,7 +111,7 @@ A intenção é criarmos um aplicativo no qual conterá tutoriais para confecç�
 | Cronograma |
 | :---- |
 
-\<Insira aqui uma imagem ou tabela de todo o planejamento do projeto (com atividades e datas). A periodicidade das tarefas será de 2 semanas. O cronograma deve abranger todo o processo de construção do projeto. Isso pode ser feito diretamente neste doc, no excel, canva etc\>
+
 
 | Materiais e Métodos |
 | :---- |
