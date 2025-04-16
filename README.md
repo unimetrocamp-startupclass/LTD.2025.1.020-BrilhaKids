@@ -112,8 +112,6 @@ A intenção é criarmos um aplicativo no qual conterá vídeos e músicas educa
 
 * **Página inicial com "spoiler" do app:** Criação de uma página inicial atraente e informativa, que apresente os principais recursos e benefícios do aplicativo de forma concisa e visualmente agradável.
 
-* **Traduzir o código para Java:** Caso seja necessário, realizar a tradução do código do aplicativo para a linguagem Java, para garantir a compatibilidade com a plataforma Android.
-
 * **Baixar as imagens/fontes necessárias:** Coleta e organização de todos os recursos visuais necessários para o aplicativo, como imagens, ícones, ilustrações e fontes, garantindo que sejam adequados para o público-alvo e otimizados para diferentes dispositivos.
 
 * **Baixar o android studio:** Download e instalação do Android Studio, o ambiente de desenvolvimento integrado (IDE) oficial para a plataforma Android, que será utilizado para criar, testar e depurar o aplicativo.
@@ -136,11 +134,10 @@ A intenção é criarmos um aplicativo no qual conterá vídeos e músicas educa
 
 * **Página para ver a conta e editá-la, se for o caso:** Um espaço para os pais ou responsáveis poderem configurar o aplicativo de acordo com as necessidades da criança, como nível de dificuldade dos jogos, temas de interesse e tempo de utilização.
 
-* **Formulário "Fale conosco":**Um canal de comunicação direto com a equipe de desenvolvimento do aplicativo, para que os pais possam enviar dúvidas, sugestões e feedbacks.
+* **Formulário "Fale conosco":** Um canal de comunicação direto com a equipe de desenvolvimento do aplicativo, para que os pais possam enviar dúvidas, sugestões e feedbacks.
 
 * **Página "Quem somos":** Um espaço para apresentar a equipe responsável pelo desenvolvimento do aplicativo, seus objetivos e valores.
 
-* **Página inicial com "spoiler" do app:** Uma apresentação visualmente atraente do aplicativo, com destaque para seus principais recursos e benefícios.
 
 | Cronograma |
 | :---- |
