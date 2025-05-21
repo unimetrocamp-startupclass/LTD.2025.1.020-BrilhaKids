@@ -207,8 +207,9 @@ O coração do BrilhaKids reside em seu conteúdo educativo e divertido, dividid
 
 Todo o protótipo foi desenhado com o objetivo de ser visualmente estimulante, utilizando uma paleta de cores vibrantes e um layout que facilita a interação da criança com o conteúdo, tornando o aprendizado uma experiência prazerosa e eficaz.
 
-![][image2]  
-![][image3]![][image4]
+![Texto Alternativo](https://github.com/MylenaSena/imagens/blob/efa3443058de1531537734cde97333d5fdd8f1f0/WhatsApp%20Image%202025-05-21%20at%2020.18.15.jpeg)
+![Texto Alternativo](https://github.com/MylenaSena/imagens/blob/efa3443058de1531537734cde97333d5fdd8f1f0/WhatsApp%20Image%202025-05-21%20at%2020.17.39%20(1).jpeg)
+![Texto Alternativo](https://github.com/MylenaSena/imagens/blob/efa3443058de1531537734cde97333d5fdd8f1f0/WhatsApp%20Image%202025-05-21%20at%2020.17.39.jpeg)
 
 2. **Códigos das principais funcionalidades**: \<Dica: copy-cole aqui as seções mais relevantes do seu código. Insira comentários sobre cada seção.\>
 
