@@ -145,7 +145,7 @@ A intenção é criarmos um aplicativo no qual conterá vídeos e músicas educa
 | Cronograma |
 | :---- |
 
-![][image1]
+![Texto Alternativo](https://raw.githubusercontent.com/kiragb/trab_quinta/refs/heads/main/brilhakids_2025-04-15_08.21pm.png)
 
 | Materiais e Métodos |
 | :---- |
