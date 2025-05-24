@@ -171,11 +171,6 @@ Fonte: Autores
      
      
      
-     
-     
-     
-     
-     
    3. **Arquitetura do sistema**:   
         
       O fluxo do sistema BrilhaKids começa com a instalação do aplicativo em um smartphone. Após isso, o responsável realiza o cadastro ou login, e as informações são armazenadas em um banco de dados local. Ao entrar no app, o usuário tem acesso à tela inicial, que apresenta conteúdos organizados como jogos online, músicas educativas, vídeos curtos, ideias de atividades manuais em PDF e dicas práticas para pais de crianças com TEA. Esses recursos são pensados para estimular o desenvolvimento infantil de maneira lúdica e personalizada, promovendo a interação entre a criança e o cuidador.  
@@ -216,8 +211,11 @@ Todo o protótipo foi desenhado com o objetivo de ser visualmente estimulante, u
 | Conclusão |
 | :---- |
 
-   1. **Impacto do sistema:** \<Dica: como o sistema impactou (alterou positivamente) o processo do cliente\>  
-   2. **Melhorias Futuras**: \<Dica: elencar, pelo menos, uma melhoria que poderá ser realizada futuramente no sistema.\>
+ O desenvolvimento do BrilhaKids foi uma experiência enriquecedora, tanto no aspecto técnico quanto humano. Ao longo do projeto, tivemos a oportunidade de aplicar na prática os conhecimentos adquiridos na disciplina de Programação Orientada a Objetos, utilizando a linguagem Java e explorando o ambiente Android Studio. Mais do que isso, o trabalho nos desafiou a criar uma solução tecnológica com propósito social, voltada ao auxílio de crianças com Transtorno do Espectro Autista e seus cuidadores.
+
+A proposta do aplicativo nos fez refletir sobre a importância da empatia no desenvolvimento de software e sobre como a tecnologia pode ser uma aliada na promoção da inclusão e do cuidado. Por meio da pesquisa, do planejamento e da construção colaborativa, conseguimos criar uma base funcional e acessível que poderá ser aprimorada futuramente.
+
+Encerramos este projeto com um sentimento de orgulho pelo que construímos, pelo aprendizado adquirido e pela possibilidade de contribuir, ainda que de forma inicial, com uma ferramenta que busca promover bem-estar, autonomia e acolhimento.
 
 | Homologação do MVP junto ao cliente |
 | :---- |
@@ -244,13 +242,10 @@ Ao final da apresentação, o sistema  foi homologado pelo cliente.
 | :---- |
 
 1. **Linkedin do Projeto**  
-   \<A página do Linkedin do projeto deve ter o logo do LTD, o titulo do projeto, um breve resumo, o nome dos integrantes e o nome do professor-orientador. Insira também o link do repositório do projeto no GitHub. Neste perfil, deve ser postado a cada Sprint, os artefatos produzidos (diagramas, videos explicativos de códigos, artigo sobre determinado tema vinculado ao desenvolvimento do projeto). Promova engajamento e networking conectando-se a profissionais da área, compartilhamentos, comentários etc.   
-   Insira o linnk deste perfil com o seu perfil pessoal do Linkedin.  
    
 
-| \<print da tela de perfil do Linkedin\> | \<link da pág do Linkedin\> |
-| :---- | :---- |
-
+![Texto Alternativo](https://raw.githubusercontent.com/MylenaSena/imagens/refs/heads/main/brilhakids.png?token=GHSAT0AAAAAADDIEKLGFRN7TAKCXJSHQZZK2BSGEEQ)
+https://www.linkedin.com/pulse/brilhakids-estrat%C3%A9gias-para-estimular-o-de-crian%C3%A7as-walqu%C3%ADria-2fwxf/
    
 
    2. **Seminário de Projetos de Software**  
@@ -347,8 +342,8 @@ Em tempo, registramos ainda, o convite para a participação de todos os interes
 Desde já nos colocamos à sua disposição para quaisquer esclarecimentos.
 
 Atenciosamente,
-
-Campinas, \_\_\_\_ de \_\_\_\_\_\_\_\_\_ de 202\_\_\_.
+Mylena e Walquiria
+Campinas, 24 de Maio de 2025.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -363,7 +358,7 @@ Campinas, \_\_\_\_ de \_\_\_\_\_\_\_\_\_ de 202\_\_\_.
 | Carta de Autorização |
 | :---- |
 
-Eu, (preencher com nome do responsável), (preencher com cargo ocupado), da (nome da empresa, organização, associação, escola, secretaria, etc., situada no endereço – inserir o endereço), autorizo a realização das seguintes atividades acadêmicas do componente extensionista \<código e nome da disciplina\>, do Centro Universitário Unimetrocamp, sob orientação do Prof. Kesede Rodrigues Julio.
+Eu, Ivani Sena dos Santos, autorizo a realização das seguintes atividades acadêmicas do componente extensionista \<código e nome da disciplina\>, do Centro Universitário Unimetrocamp, sob orientação do Prof. Kesede Rodrigues Julio.
 
  
 
@@ -379,13 +374,9 @@ Conforme combinado em contato prévio, as atividades acima descritas são autori
  
 
 | Nome dos/das alunos/as | Curso | Matrícula |
-| :---: | :---: | :---: |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|  |  |  |
+| Walquíria Gonçalves Barbosa | 202403773198 | Análise e Desenvolvimento de Sistemas |
 
+| Mylena Leticia Sena dos Santos | 202209084191 | Análise e Desenvolvimento de Sistemas |
  
 
 Declaro que fui informado por meio da **Carta de Apresentação** sobre as características e objetivos das atividades que serão realizadas na Instituição Centro Universitário Unimetrocamp Wyden a qual represento e afirmo estar ciente de tratar-se de uma atividade realizada com intuito **exclusivo de ensino de alunos de graduação**, sem a finalidade de exercício profissional.
@@ -403,24 +394,31 @@ Desta forma, autorizo, em caráter de confidencialidade:
 
  
 
-Campinas, \_\_\_ de \_\_\_\_\_\_\_\_\_\_\_de 202\_.
+Campinas, 24 de Maio de 2025.
 
  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(Assinatura, nome completo do responsável, email de contato e com carimbo da empresa)
 
 | Relato individual do processo |
 | :---- |
 
-| \<nome do aluno\> |
+| \<Mylena Leticia Sena dos Santos\> |
 | :---- |
-| \<um breve relato pessoal sobre o trabalho extensionista desenvolvido\> |
+| \Durante o desenvolvimento do projeto BrilhaKids, pude me aprofundar em diversas habilidades técnicas e interpessoais. Como responsável por grande parte da organização do material e da estruturação do conteúdo, busquei garantir que cada elemento do aplicativo fosse pensado com cuidado e empatia, levando sempre em consideração as reais necessidades das crianças dentro do espectro autista e de seus cuidadores.
 
-| \<nome do aluno\> |
+Foi um grande desafio equilibrar os requisitos técnicos com a sensibilidade que o tema exige. Tive que sair da minha zona de conforto ao explorar ferramentas como o Canva, o Lucidchart e o Android Studio, além de trabalhar com banco de dados e conceitos de orientação a objetos em Java. Aprendi muito sobre a importância da comunicação clara com os colegas e do planejamento contínuo, especialmente para manter o foco nas entregas.
+
+Participar desse projeto foi extremamente significativo para mim, não só por contribuir com algo que pode fazer a diferença na vida de muitas famílias, mas também por perceber o quanto evoluí como estudante de Análise e Desenvolvimento de Sistemas. Me senti verdadeiramente motivada em cada etapa, e saio dessa experiência com mais confiança nas minhas capacidades e com o desejo de continuar trabalhando com projetos que tenham impacto social.\> |
+
+| \<Walquiria Gonçalves Barbosa\> |
 | :---- |
-| \<um breve relato pessoal sobre o trabalho extensionista desenvolvido\> |
+| \<O desenvolvimento do projeto BrilhaKids representou para mim uma experiência enriquecedora e desafiadora. Desde o início, senti que estávamos lidando com um tema muito importante e sensível, o que exigiu atenção redobrada em todas as etapas. Pude contribuir com ideias voltadas à interface do aplicativo, além de participar da definição de funcionalidades que realmente fizessem sentido para o público-alvo.
+
+Trabalhar com o tema do TEA me trouxe uma nova perspectiva sobre o papel da tecnologia na inclusão e no suporte ao desenvolvimento infantil. Ao mesmo tempo, foi uma oportunidade para aplicar na prática os conhecimentos adquiridos na disciplina de Programação Orientada a Objetos, utilizando Java e explorando o Android Studio, ferramentas que eu ainda estava aprendendo a usar.
+
+A troca de ideias com minha colega Mylena foi essencial para que conseguíssemos evoluir no projeto. Aprendi com ela, e acredito que formamos uma dupla equilibrada e comprometida com a proposta. Concluo esse projeto com um sentimento de realização e com mais segurança para enfrentar novos desafios na área da tecnologia.\> |
 
  
 
