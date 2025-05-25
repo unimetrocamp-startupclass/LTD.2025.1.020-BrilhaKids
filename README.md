@@ -1,4 +1,4 @@
-  
+![image](https://github.com/user-attachments/assets/ee424db5-7b6a-4d49-be42-b39f637e98dd)  
 **Documentação do Sistema**
 
 SUMÁRIO
@@ -245,6 +245,7 @@ Ao final da apresentação, o sistema  foi homologado pelo cliente.
    
 
 ![Texto Alternativo](https://raw.githubusercontent.com/MylenaSena/imagens/refs/heads/main/brilhakids.png?token=GHSAT0AAAAAADDIEKLGFRN7TAKCXJSHQZZK2BSGEEQ)
+
 https://www.linkedin.com/pulse/brilhakids-estrat%C3%A9gias-para-estimular-o-de-crian%C3%A7as-walqu%C3%ADria-2fwxf/
    
 
@@ -256,12 +257,11 @@ https://www.linkedin.com/pulse/brilhakids-estrat%C3%A9gias-para-estimular-o-de-c
 
    
 
-| \<foto 1: foto do time com o primeiro slide de fundo\> | \<foto 2: foto de um integrante apresentando o sistema.\> |
-| :---: | :---: |
-| Da esquerda para direita: \<legenda 1: descreva quem está na foto\> | \<legenda 2: coloque o nome de quem está apresentando\> |
-| \<foto 3: foto plano geral da apresentação de frente para o fundo da sala\> | \<foto 4:  foto plano geral da apresentação do fundo para a frente da sala\> |
-| Participantes do evento assistindo a apresentação | Participantes do evento assistindo a apresentação |
+![image](https://github.com/user-attachments/assets/1ac9b56f-6ba2-4ade-8bcc-18f84c0af1d6)
+|Mylena e Walquiria estão na imagem|
 
+![image](https://github.com/user-attachments/assets/06d73834-e7bf-413e-a360-6e61f742fca6)
+cliente satisfeita com o produto
    
 
       Segue abaixo a lista de presentes na apresentação.
