@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee424db5-7b6a-4d49-be42-b39f637e98dd)  
+
 **Documentação do Sistema**
 
 SUMÁRIO
