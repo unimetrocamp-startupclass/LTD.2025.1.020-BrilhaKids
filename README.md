@@ -290,7 +290,7 @@ Ao final da apresentação, o sistema  foi homologado pelo cliente.
 1. **Linkedin do Projeto**  
    
 
-![Texto Alternativo](https://raw.githubusercontent.com/MylenaSena/imagens/refs/heads/main/brilhakids.png?token=GHSAT0AAAAAADDIEKLGFRN7TAKCXJSHQZZK2BSGEEQ)
+![Texto Alternativo](https://raw.githubusercontent.com/MylenaSena/imagens/refs/heads/main/brilhakids.png?token=GHSAT0AAAAAADEU2K4HGO6NYXIB73VOSCKC2BWI5UQ)
 
 https://www.linkedin.com/pulse/brilhakids-estrat%C3%A9gias-para-estimular-o-de-crian%C3%A7as-walqu%C3%ADria-2fwxf/
    
