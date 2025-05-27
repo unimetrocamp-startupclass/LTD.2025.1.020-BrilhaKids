@@ -234,7 +234,53 @@ Segue abaixo a lista de presentes na homologação do MVP.
 
 | Lista de presentes na Homologação |
 | ----- |
-| \<Cole aqui a foto da lista de presentes na homologação.\> |
+| \<LISTA DE PRESENÇA - Quarta-Feira - 14/05/2025
+Gustavo Andrade Magalhães
+202402799584
+Nicolas Anderson Cala
+202402846401
+Sabrina Moreno Paes
+202403733943
+Zahira de Oliveira Silva
+202402893981
+Ademir Filho Pinho da Silva
+202308428641
+Eduardo Alexandre da Rocha Filho
+202309148692
+Leonardo Henrique de Andrade Goulart
+202309398303
+Lucas de Souza Lanaro
+202308428497
+Ana Beatriz Cossari
+202302480624
+Gabriel Nakamura Ramos
+202302381286
+Kelton Bruno Santos de Oliveira
+202302380883
+Luiz Alberto da Silva Junior
+202302423108
+Gabriel Rodrigues Honorato
+20240266029
+Isadora Geremias de Melo
+202403503786
+Davi Miguel da Rocha Lima
+202402530951
+Natan Henrique Ribeiro lobo
+202402531221
+Nicolas Mansano Duarte
+202403955423
+Victor Felipe Pires
+202403000857
+Augusto Ramlow
+202308395815
+Wallace da Silva Francisco
+202308428713
+Willian Luiz iamarino gandolphi
+202308428454
+Erick Valente Sprogis
+202403871751
+Jhonatan Victor Conde Ramos
+202403718774\> |
 
 Ao final da apresentação, o sistema  foi homologado pelo cliente.
 
