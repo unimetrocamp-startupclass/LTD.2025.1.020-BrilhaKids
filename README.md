@@ -225,16 +225,45 @@ Após as entregas parciais, realizadas de acordo com os requisitos do sistema  e
 \<Dica: inserir uma foto da homologação em cada linha do quadro abaixo. Serão 4 fotos (tiradas no momento da homologação) e, na linha debaixo, uma legenda para cada uma delas. A homologação, preferencialmente, deve ser presencial. Se não for viável, pode ser feita por videoconferência com prints da tela.\>
 
 | \<foto 1: foto do time e cliente com o primeiro slide de fundo\> | \<foto 2: foto de um integrante apresentando o MVP.\> |
-| :---: | :---: |
-| Da esquerda para direita: \<legenda 1: descreva quem está na foto\> | \<legenda 2: coloque o nome de quem está apresentando\> |
-| \<foto 3: foto dos participantes assistindo a homologação\> | \<foto 4: foto do plano geral do local\> |
-| Participantes da homologação assistindo a apresentação | Participantes da homologação |
+
+![image](https://github.com/user-attachments/assets/1ac9b56f-6ba2-4ade-8bcc-18f84c0af1d6)
+|Mylena e Walquiria estão na imagem|
+
+![image](https://github.com/user-attachments/assets/06d73834-e7bf-413e-a360-6e61f742fca6)
+cliente satisfeita com o produto
 
 Segue abaixo a lista de presentes na homologação do MVP.
 
 | Lista de presentes na Homologação |
 | ----- |
-| \<LISTA DE PRESENÇA - Quarta-Feira - 14/05/2025
+| Walquíria Gonçalves Barbosa
+Mylena Leticia Sena dos Santos
+Ivani Sena dos Santos |
+
+Ao final da apresentação, o sistema  foi homologado pelo cliente.
+
+| Divulgação |
+| :---- |
+
+1. **Linkedin do Projeto**  
+   
+
+![Texto Alternativo](https://raw.githubusercontent.com/MylenaSena/imagens/refs/heads/main/brilhakids.png?token=GHSAT0AAAAAADEU2K4HGO6NYXIB73VOSCKC2BWI5UQ)
+
+https://www.linkedin.com/pulse/brilhakids-estrat%C3%A9gias-para-estimular-o-de-crian%C3%A7as-walqu%C3%ADria-2fwxf/
+   
+
+   2. **Seminário de Projetos de Software**  
+        
+   
+
+      Segue abaixo a lista de presentes na apresentação.
+
+      
+
+| Lista de presentes na Apresentação |
+| :---: |
+| \<<LISTA DE PRESENÇA - Quarta-Feira - 14/05/2025
 Gustavo Andrade Magalhães
 202402799584
 Nicolas Anderson Cala
@@ -281,42 +310,6 @@ Erick Valente Sprogis
 202403871751
 Jhonatan Victor Conde Ramos
 202403718774\> |
-
-Ao final da apresentação, o sistema  foi homologado pelo cliente.
-
-| Divulgação |
-| :---- |
-
-1. **Linkedin do Projeto**  
-   
-
-![Texto Alternativo](https://raw.githubusercontent.com/MylenaSena/imagens/refs/heads/main/brilhakids.png?token=GHSAT0AAAAAADEU2K4HGO6NYXIB73VOSCKC2BWI5UQ)
-
-https://www.linkedin.com/pulse/brilhakids-estrat%C3%A9gias-para-estimular-o-de-crian%C3%A7as-walqu%C3%ADria-2fwxf/
-   
-
-   2. **Seminário de Projetos de Software**  
-        
-      **Vídeo da apresentação:** \<Grave sua apresentação, poste no Linkedin do projeto e insira aqui o link público (acesso sem login) do vídeo da apresentação\>  
-        
-      \<Na tabela abaixo, inserir uma foto da apresentação em cada linha. Serão 4 fotos (tiradas no momento da apresentação). Para cada foto, descreva uma legenda na linha de baixo.\>
-
-   
-
-![image](https://github.com/user-attachments/assets/1ac9b56f-6ba2-4ade-8bcc-18f84c0af1d6)
-|Mylena e Walquiria estão na imagem|
-
-![image](https://github.com/user-attachments/assets/06d73834-e7bf-413e-a360-6e61f742fca6)
-cliente satisfeita com o produto
-   
-
-      Segue abaixo a lista de presentes na apresentação.
-
-      
-
-| Lista de presentes na Apresentação |
-| :---: |
-| \<Faça uma lista de presença numa folha A4, contendo no alto da folha “Seminários de Projetos de Software”. A lista deve conter ra, nome e assinatura dos presentes. Cole aqui a foto desta lista.\> |
 
    3. **FENETEC: Feira de Negócios em Tecnologia**  
         
