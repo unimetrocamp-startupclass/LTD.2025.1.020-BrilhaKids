@@ -206,7 +206,81 @@ Todo o protótipo foi desenhado com o objetivo de ser visualmente estimulante, u
 ![Texto Alternativo](https://github.com/MylenaSena/imagens/blob/efa3443058de1531537734cde97333d5fdd8f1f0/WhatsApp%20Image%202025-05-21%20at%2020.17.39%20(1).jpeg)
 ![Texto Alternativo](https://github.com/MylenaSena/imagens/blob/efa3443058de1531537734cde97333d5fdd8f1f0/WhatsApp%20Image%202025-05-21%20at%2020.17.39.jpeg)
 
-2. **Códigos das principais funcionalidades**: \<Dica: copy-cole aqui as seções mais relevantes do seu código. Insira comentários sobre cada seção.\>
+2. **Códigos das principais funcionalidades**: \<Arquivo: DBHelper.java
+
+Classe responsável por gerenciar o banco de dados SQLite local do app.
+
+// Criação e upgrade do banco SQLite local
+@Override
+public void onCreate(SQLiteDatabase db) {
+    // Cria a tabela "usuarios" com campos essenciais
+}
+@Override
+public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
+    // Atualiza o banco para incluir novos campos sem perder dados
+}
+
+// Função para criptografar a senha com SHA-256
+public static String sha256(String base) {
+    // Retorna um hash seguro da senha para armazenamento local
+}
+
+// Busca o nome do usuário com base no e-mail
+public String buscarNomePorEmail(String email) {
+    // Retorna o nome do usuário consultando o SQLite local
+}
+
+Arquivo: CadastroActivity.java
+
+Tela de cadastro de novos usuários, com integração ao Firebase Authentication e Firebase Realtime Database.
+
+
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+    // Inicializa campos de texto, checkbox e botão de cadastro
+    // Controla a visibilidade da senha ao marcar/desmarcar checkbox
+}
+
+private void cadastrarUsuario() {
+    // Valida se os campos foram preenchidos
+    // Valida se as senhas coincidem
+    // Valida se o sexo foi selecionado
+
+    // Cria o usuário no Firebase Authentication
+    mAuth.createUserWithEmailAndPassword(email, senha)
+        .addOnCompleteListener(...)
+
+    // Se for bem-sucedido, salva nome, e-mail e sexo no Realtime Database
+}
+
+// Classe interna que representa os dados do usuário para salvar no Firebase
+public static class Usuario {
+    public String nome;
+    public String email;
+    public String sexo;
+}
+
+Arquivivo: LoginActivity.java
+Tela de login de usuários já cadastrados.
+
+java
+Copiar
+Editar
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+    // Inicializa campos de e-mail e senha, além de botões de login e links
+    // Adiciona ação ao checkbox para mostrar ou esconder a senha
+    // Adiciona navegação para "Recuperar Senha" e "Cadastrar"
+}
+
+private void realizarLogin() {
+    // Valida os campos
+    // Faz login com Firebase Authentication
+
+    // Se login for bem-sucedido:
+    // Busca dados do usuário (nome e sexo) no Firebase Realtime Database
+    // Redireciona para a tela principal do app (MainLoggedActivity)
+}\>
 
 | Conclusão |
 | :---- |
